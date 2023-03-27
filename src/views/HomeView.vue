@@ -1,8 +1,9 @@
 <script setup>
+import FirtsCard from '../components/FirtsCard.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <FirtsCard/>
   </main>
 </template>
